@@ -9,10 +9,10 @@ import utime
 wlan = network.WLAN(network.STA_IF)  # met la raspi en mode client wifi
 wlan.active(True)  # active le mode client wifi
 
-ssid = 'iPhone de Félix'
-password = '12345678'
+ssid = 'iPhone de Félix' # nom du réseau wifi
+password = '12345678' # mot de passe du réseau wifi
 wlan.connect(ssid, password)  # connecte la raspi au réseau
-url = "http://172.20.10.6:3000/send"
+url = "http://172.20.10.6:3000/send" # adresse du serveur
 
 
 while not wlan.isconnected():
