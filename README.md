@@ -6,4 +6,4 @@ https://drive.google.com/file/d/15-jaeEctQvgQJi_O-B67ELuWau2Do4i0/view?usp=drive
 
 Thomas Aubert - 
 Nicolas Bordeaux - 
-Felix Janot - 
+Felix Janot 
